@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShadowLithi
 - 👀 I’m interested in aviation/avionics, science (STEM), and astronomy
-- 🌱 I’m currently learning HTML code and SSL on Home Assistant
-- 💞️ I’m looking to collaborate on making a website for home automation
+- 🌱 I’m currently learning HTML code and SSL on Home Assistant, as well as PowerShell commands and scripts for Windows 10 and 11
+- 💞️ I’m not looking for direct collaboration at the moment, but may be interested in the future if a project is within interest
 - 📫 How to reach me: Discord
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: ...
